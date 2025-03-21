@@ -30,3 +30,30 @@ footer {
     bottom: 0;
     width: 100%;
 }
+article {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+article:hover {
+    background: #f9f9f9;
+}
+
+article img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+article h2 {
+    font-size: 1.5em;
+    color: #0073e6;
+}
+
+article p {
+    font-size: 1em;
+    line-height: 1.5;
+}
