@@ -36,11 +36,6 @@ article {
     margin-bottom: 15px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    transition: 0.3s;
-}
-
-article:hover {
-    background: #f9f9f9;
 }
 
 article img {
